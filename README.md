@@ -166,7 +166,3 @@ Contributions are welcome:
 ## 📄 License
 
 This project is for educational purposes.
-
-
-
-## 🧠 Workflow
